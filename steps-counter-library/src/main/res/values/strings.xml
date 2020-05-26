@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_notification_step_content_title">Steps counter works…</string>
+
+    <string name="notification_channel_name">Steps counter channel</string>
+    <string name="notification_channel_desctiption">Steps counter channel description</string>
+</resources>
