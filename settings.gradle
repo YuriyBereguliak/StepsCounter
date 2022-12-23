@@ -1,2 +1,4 @@
 rootProject.name = 'StepsCounter'
-include ':sample', ':steps-counter-library'
+
+include ':app'
+include ':steps-counter-library'
